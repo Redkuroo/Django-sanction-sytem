@@ -1,0 +1,1 @@
+The Sanction System for IT Lab is designed to monitor and manage violations committed by users within an IT laboratory. This system allows administrators to log, track, and enforce sanctions based on the severity and frequency of infractions.
